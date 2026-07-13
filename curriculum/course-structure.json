@@ -1,0 +1,2159 @@
+{
+  "schema_version": "1.0.0",
+  "generated_on": "2026-07-13",
+  "source": {
+    "title": "American Big English 2 Student's Book",
+    "edition": "Second Edition",
+    "authors": [
+      "Mario Herrera",
+      "Christopher Sol Cruz"
+    ],
+    "page_count_pdf": 139,
+    "purpose": "Private curriculum extraction for an original, unofficial interactive practice website.",
+    "copyright_boundary": "This package records syllabus facts, short target language patterns, vocabulary lists, and pedagogical structure. It intentionally excludes scanned pages, publisher images, audio, songs, long stories, and substantial verbatim exercises."
+  },
+  "course": {
+    "id": "english-adventure-2",
+    "working_title": "English Adventure 2",
+    "description": "An original interactive practice companion aligned to the Big English 2 learning progression.",
+    "target_age": 9,
+    "target_level": "Primary beginner ESL; approximately pre-A1 to early A1",
+    "learner_ui_language": "English",
+    "support_language": "Persian",
+    "delivery": "Static browser application deployed through GitHub Pages",
+    "sequence": [
+      "welcome",
+      "unit-1",
+      "unit-2",
+      "unit-3",
+      "checkpoint-1-3",
+      "unit-4",
+      "unit-5",
+      "unit-6",
+      "checkpoint-4-6",
+      "unit-7",
+      "unit-8",
+      "unit-9",
+      "checkpoint-7-9",
+      "starters-practice"
+    ],
+    "unit_lesson_sequence": [
+      "introduction",
+      "vocabulary-discovery",
+      "vocabulary-practice",
+      "grammar-discovery",
+      "grammar-practice",
+      "listening",
+      "reading-story",
+      "reading-comprehension",
+      "speaking",
+      "guided-writing",
+      "dictation",
+      "phonics",
+      "content-connection",
+      "culture-connection",
+      "values",
+      "mixed-review",
+      "unit-challenge",
+      "mastery-report"
+    ]
+  },
+  "units": [
+    {
+      "id": "welcome",
+      "number": 0,
+      "type": "welcome",
+      "title": "Welcome to Class!",
+      "printed_pages": "a-d",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "theme": "Classroom objects, family members, everyday actions, and review language.",
+      "vocabulary": [
+        {
+          "group": "classroom_objects",
+          "items": [
+            "backpack",
+            "book",
+            "chair",
+            "desk",
+            "floor",
+            "marker",
+            "notebook",
+            "pen",
+            "pencil",
+            "pencil case",
+            "shelf",
+            "table"
+          ]
+        },
+        {
+          "group": "location_prepositions",
+          "items": [
+            "on",
+            "under"
+          ]
+        },
+        {
+          "group": "daily_actions",
+          "items": [
+            "brush your teeth",
+            "comb your hair",
+            "drink",
+            "dry the dishes",
+            "eat",
+            "make lunch",
+            "play a game",
+            "read",
+            "ride a bike",
+            "sleep",
+            "take a bath",
+            "talk on the phone"
+          ]
+        },
+        {
+          "group": "family_and_people",
+          "items": [
+            "brother",
+            "dad",
+            "grandma",
+            "grandpa",
+            "mom",
+            "sister"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "singular location questions",
+          "patterns": [
+            "Where's my notebook?",
+            "It's on the shelf."
+          ]
+        },
+        {
+          "target": "plural location questions",
+          "patterns": [
+            "Where are the pens?",
+            "They're on the floor."
+          ]
+        },
+        {
+          "target": "present continuous review",
+          "patterns": [
+            "What are you doing?",
+            "I'm brushing my teeth.",
+            "What's he doing?",
+            "He's reading."
+          ]
+        },
+        {
+          "target": "have/has yes-no questions",
+          "patterns": [
+            "Does she have a phone?",
+            "Yes, she does.",
+            "No, she doesn't."
+          ]
+        }
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify people, actions, and locations",
+          "follow short classroom descriptions"
+        ],
+        "speaking": [
+          "ask and answer about current actions",
+          "ask where classroom objects are"
+        ],
+        "reading": [
+          "match short statements to pictures",
+          "judge simple true/false statements"
+        ],
+        "writing": [
+          "label people and objects",
+          "complete short location and action sentences"
+        ],
+        "dictation": [
+          "classroom object words",
+          "short on/under sentences",
+          "daily action phrases"
+        ]
+      },
+      "outcomes": [
+        "Name common classroom objects and close family members.",
+        "Use on and under to describe location.",
+        "Ask and answer about actions happening now.",
+        "Use does ... have? with short answers.",
+        "Distinguish singular and plural location questions."
+      ],
+      "recommended_activity_types": [
+        "picture-word-match",
+        "true-false",
+        "acting-guess",
+        "listen-and-select",
+        "label-picture",
+        "location-drag-drop",
+        "dictation",
+        "role-play"
+      ],
+      "source_sections": [
+        "Welcome Unit pages a-d"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 0,
+        "clil_activities": 0,
+        "culture_activities": 0,
+        "values_activities": 0,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-1",
+      "number": 1,
+      "type": "unit",
+      "title": "In My Classroom",
+      "printed_pages": "4-15",
+      "pdf_pages": [
+        9,
+        20
+      ],
+      "theme": "Classroom activities and describing what people are doing.",
+      "vocabulary": [
+        {
+          "group": "classroom_activities",
+          "items": [
+            "coloring a picture",
+            "counting",
+            "cutting paper",
+            "gluing shapes",
+            "listening to a story",
+            "playing a game",
+            "using the computer",
+            "watching a movie",
+            "writing her name"
+          ]
+        },
+        {
+          "group": "math_language",
+          "items": [
+            "plus",
+            "minus",
+            "equals"
+          ]
+        },
+        {
+          "group": "numbers_extension",
+          "items": [
+            "eleven",
+            "twelve",
+            "thirteen",
+            "fourteen",
+            "fifteen",
+            "sixteen",
+            "seventeen",
+            "eighteen",
+            "nineteen",
+            "twenty",
+            "thirty",
+            "forty",
+            "fifty",
+            "sixty",
+            "seventy",
+            "eighty",
+            "ninety",
+            "a hundred"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "present continuous with be + -ing",
+          "patterns": [
+            "What's he doing?",
+            "He's reading a book.",
+            "What are they doing?",
+            "They're gluing pictures."
+          ]
+        },
+        {
+          "target": "there is/there are with numbers",
+          "patterns": [
+            "How many pictures are there?",
+            "There's one picture.",
+            "There are three books."
+          ]
+        }
+      ],
+      "story_theme": "Classmates identify different children who share the same first name by observing their classroom activities.",
+      "content_connection": {
+        "subject": "Math",
+        "title": "Arithmetic",
+        "words": [
+          "plus",
+          "minus",
+          "equals"
+        ],
+        "concepts": [
+          "read and solve simple addition and subtraction statements",
+          "use English number words up to 100"
+        ]
+      },
+      "culture_connection": {
+        "title": "Classes outside the classroom",
+        "places": [
+          "Turkey",
+          "France",
+          "United States",
+          "Bangladesh"
+        ],
+        "words": [
+          "forest",
+          "garden",
+          "mountains",
+          "boat"
+        ],
+        "concepts": [
+          "school activities can happen in forests, gardens, mountains, and boats"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "th"
+        ],
+        "contrasts": [
+          "voiced th",
+          "unvoiced th"
+        ],
+        "examples": [
+          "that",
+          "the",
+          "then",
+          "this",
+          "with",
+          "bath",
+          "both",
+          "math",
+          "mouth",
+          "path",
+          "thin"
+        ]
+      },
+      "values": {
+        "title": "Take turns",
+        "language": [
+          "May I use the markers?",
+          "It's your turn.",
+          "Thanks."
+        ],
+        "project": "Create a simple puppet and practise a turn-taking role-play."
+      },
+      "outcomes": [
+        "Use words for classroom activities.",
+        "Use there is and there are to describe a classroom.",
+        "Ask and answer about what people are doing in the classroom."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify classroom activities",
+          "listen for quantities and actions"
+        ],
+        "speaking": [
+          "describe picture actions",
+          "ask and answer how many"
+        ],
+        "reading": [
+          "read a short classroom story",
+          "identify characters by actions"
+        ],
+        "writing": [
+          "complete -ing forms",
+          "write there is/there are sentences"
+        ],
+        "dictation": [
+          "classroom activity phrases",
+          "short present-continuous sentences",
+          "number and arithmetic sentences"
+        ]
+      },
+      "recommended_activity_types": [
+        "acting-game",
+        "picture-word-match",
+        "image-hotspot",
+        "sentence-builder",
+        "fill-blank",
+        "story-sequencing",
+        "listen-and-type",
+        "dictation",
+        "phonics-sort",
+        "math-challenge"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: Math",
+        "Culture Connection",
+        "Phonics: th",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-2",
+      "number": 2,
+      "type": "unit",
+      "title": "My Games",
+      "printed_pages": "16-27",
+      "pdf_pages": [
+        21,
+        32
+      ],
+      "theme": "Outdoor activities, preferences, positions, and safe play.",
+      "vocabulary": [
+        {
+          "group": "outdoor_activities",
+          "items": [
+            "kick a soccer ball",
+            "play basketball",
+            "play volleyball",
+            "play baseball",
+            "play on the slide",
+            "ride my bike",
+            "skate",
+            "skateboard"
+          ]
+        },
+        {
+          "group": "location_prepositions",
+          "items": [
+            "behind",
+            "between",
+            "in front of",
+            "next to"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "like/likes to + verb",
+          "patterns": [
+            "What does she like to do?",
+            "She likes to skate.",
+            "What do they like to do?",
+            "They like to play basketball."
+          ]
+        },
+        {
+          "target": "position with prepositions",
+          "patterns": [
+            "It's next to the slide.",
+            "It's between the seesaws."
+          ]
+        }
+      ],
+      "story_theme": "Children discover how different sports and skills can be combined when they play as a team.",
+      "content_connection": {
+        "subject": "Science",
+        "title": "Bones and muscles",
+        "words": [
+          "bone",
+          "jump",
+          "kick",
+          "move",
+          "muscle",
+          "throw"
+        ],
+        "concepts": [
+          "bones and muscles help the body move",
+          "different actions use hands, feet, and many muscles"
+        ]
+      },
+      "culture_connection": {
+        "title": "Tag games around the world",
+        "places": [
+          "Ghana",
+          "Mexico",
+          "China"
+        ],
+        "examples": [
+          "Big Snake",
+          "Sun and Ice",
+          "Catch the Dragon's Tail"
+        ],
+        "words": [
+          "chase",
+          "dragon",
+          "freeze",
+          "join",
+          "move",
+          "shoulder",
+          "snake",
+          "tag"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "ng",
+          "nk"
+        ],
+        "examples": [
+          "bang",
+          "king",
+          "ring",
+          "sing",
+          "wing",
+          "bank",
+          "ink",
+          "pink",
+          "sink",
+          "thank"
+        ]
+      },
+      "values": {
+        "title": "Play safely",
+        "words": [
+          "safe",
+          "seesaw",
+          "skateboard",
+          "slide",
+          "swing"
+        ],
+        "concepts": [
+          "wear a helmet and pads",
+          "sit on swings",
+          "keep feet in front on a slide"
+        ],
+        "project": "Build a playground safety checklist."
+      },
+      "outcomes": [
+        "Use words for outdoor activities.",
+        "Say what I like to do.",
+        "Say what other people like to do."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify preferences and positions",
+          "follow simple game rules"
+        ],
+        "speaking": [
+          "ask what people like to do",
+          "describe location using four prepositions"
+        ],
+        "reading": [
+          "read an outdoor-activities story",
+          "read simplified rules for games"
+        ],
+        "writing": [
+          "complete do/does and like/likes patterns",
+          "write position phrases"
+        ],
+        "dictation": [
+          "sports and playground phrases",
+          "like/likes sentences",
+          "preposition sentences"
+        ]
+      },
+      "recommended_activity_types": [
+        "acting-game",
+        "memory-cards",
+        "preposition-drag-drop",
+        "team-memory-game",
+        "rules-sequencing",
+        "listen-and-select",
+        "sentence-builder",
+        "dictation",
+        "phonics-sort",
+        "safety-scenario"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: Science",
+        "Culture Connection",
+        "Phonics: ng/nk",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-3",
+      "number": 3,
+      "type": "unit",
+      "title": "In My House",
+      "printed_pages": "28-39",
+      "pdf_pages": [
+        33,
+        44
+      ],
+      "theme": "Rooms, furniture, family relationships, and object location.",
+      "vocabulary": [
+        {
+          "group": "furniture_and_objects",
+          "items": [
+            "bathtub",
+            "bed",
+            "chair",
+            "closet",
+            "couch",
+            "dresser",
+            "DVD player",
+            "fridge",
+            "lamp",
+            "oven",
+            "sink",
+            "table",
+            "TV"
+          ]
+        },
+        {
+          "group": "rooms",
+          "items": [
+            "bathroom",
+            "bedroom",
+            "kitchen",
+            "living room"
+          ]
+        },
+        {
+          "group": "extended_family",
+          "items": [
+            "aunt",
+            "cousin",
+            "uncle"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "singular and plural location answers",
+          "patterns": [
+            "Where's the TV?",
+            "It's on the table.",
+            "Where are the chairs?",
+            "They're in the living room."
+          ]
+        },
+        {
+          "target": "possessive name + 's",
+          "patterns": [
+            "My mother's phone is on the dresser.",
+            "Ben's keys are on the table."
+          ]
+        }
+      ],
+      "story_theme": "Visiting cousins move through different rooms, prompting questions about people and objects in the house.",
+      "content_connection": {
+        "subject": "History",
+        "title": "Old and new things at a museum",
+        "words": [
+          "burn",
+          "museum",
+          "new",
+          "oil",
+          "old",
+          "screen",
+          "wheel"
+        ],
+        "concepts": [
+          "compare older and modern household or technology objects"
+        ]
+      },
+      "culture_connection": {
+        "title": "Household objects around the world",
+        "places": [
+          "Sudan",
+          "Mali",
+          "Japan",
+          "Sarawak, Indonesia"
+        ],
+        "words": [
+          "clay",
+          "comfortable",
+          "electricity",
+          "fridge",
+          "hammock",
+          "oven",
+          "pot",
+          "sand",
+          "solar"
+        ],
+        "concepts": [
+          "clay cooling pots",
+          "solar ovens",
+          "low chairs",
+          "hammocks"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "oo"
+        ],
+        "contrasts": [
+          "long oo",
+          "short oo"
+        ],
+        "examples": [
+          "cool",
+          "food",
+          "moon",
+          "room",
+          "zoo",
+          "book",
+          "cook",
+          "foot",
+          "good",
+          "look"
+        ]
+      },
+      "values": {
+        "title": "Be neat",
+        "words": [
+          "sink",
+          "toy box",
+          "washing machine"
+        ],
+        "project": "Make a toy box and practise sorting household items."
+      },
+      "outcomes": [
+        "Use words for rooms, furniture, and objects in the house.",
+        "Ask and answer about where things are."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify rooms and object positions",
+          "follow a short family conversation"
+        ],
+        "speaking": [
+          "ask where objects are",
+          "describe family relations"
+        ],
+        "reading": [
+          "read a family/home story",
+          "compare old and new objects"
+        ],
+        "writing": [
+          "write it's/they're answers",
+          "form possessives with 's"
+        ],
+        "dictation": [
+          "room and furniture words",
+          "location sentences",
+          "possessive phrases"
+        ]
+      },
+      "recommended_activity_types": [
+        "i-spy",
+        "room-sort",
+        "house-map-drag-drop",
+        "family-tree-match",
+        "location-dialogue",
+        "old-new-sort",
+        "dictation",
+        "phonics-sort",
+        "tidy-room-scenario"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: History",
+        "Culture Connection",
+        "Phonics: oo",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-4",
+      "number": 4,
+      "type": "unit",
+      "title": "In My Town",
+      "printed_pages": "44-55",
+      "pdf_pages": [
+        49,
+        60
+      ],
+      "theme": "Places in town, purposes, maps, transportation, and street safety.",
+      "vocabulary": [
+        {
+          "group": "town_places",
+          "items": [
+            "bank",
+            "bookstore",
+            "bus stop",
+            "computer store",
+            "gas station",
+            "movie theater",
+            "post office",
+            "restaurant",
+            "shopping mall",
+            "supermarket",
+            "train station"
+          ]
+        },
+        {
+          "group": "action_verbs",
+          "items": [
+            "buy",
+            "send",
+            "mail a letter",
+            "put gas in the car",
+            "see a movie"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "want/wants to + action",
+          "patterns": [
+            "I want to mail a letter.",
+            "She wants to go to the park."
+          ]
+        },
+        {
+          "target": "Is there ...?",
+          "patterns": [
+            "Is there a post office near here?",
+            "Yes, there is.",
+            "Is there a bank on Elm Street?",
+            "No, there isn't."
+          ]
+        }
+      ],
+      "story_theme": "A child and parent use a map to locate a bookstore and other town places.",
+      "content_connection": {
+        "subject": "Geography",
+        "title": "Transportation around the world",
+        "words": [
+          "boat",
+          "canal",
+          "exercise",
+          "fast",
+          "ground",
+          "safe",
+          "slow",
+          "subway",
+          "without"
+        ],
+        "concepts": [
+          "travel to school by boat, bus, subway, or bike",
+          "compare fast, slow, safe, and active transport"
+        ]
+      },
+      "culture_connection": {
+        "title": "Taxis around the world",
+        "places": [
+          "London",
+          "Berlin",
+          "New Delhi",
+          "Havana"
+        ],
+        "words": [
+          "a long time ago",
+          "a lot of",
+          "colorful",
+          "modern",
+          "sign",
+          "special",
+          "wheel"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "ai",
+          "oa"
+        ],
+        "examples": [
+          "nail",
+          "rain",
+          "tail",
+          "train",
+          "wait",
+          "boat",
+          "coat",
+          "oak",
+          "road",
+          "soap"
+        ]
+      },
+      "values": {
+        "title": "Cross the street safely",
+        "words": [
+          "cross",
+          "first",
+          "left",
+          "crosswalk",
+          "right",
+          "wait",
+          "look"
+        ],
+        "sequence": [
+          "stop at the crosswalk",
+          "wait for the safe signal",
+          "look left, right, and left again"
+        ],
+        "project": "Make a Cross Safely poster."
+      },
+      "outcomes": [
+        "Use words for places in town.",
+        "Use want/wants to with action words.",
+        "Say what I want to do.",
+        "Ask and answer about places in town."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify places and map locations",
+          "listen for travel methods"
+        ],
+        "speaking": [
+          "ask whether a place exists",
+          "state a purpose using want to"
+        ],
+        "reading": [
+          "read a map-based story",
+          "read short transport profiles"
+        ],
+        "writing": [
+          "complete want/wants to",
+          "write yes/no there-is answers"
+        ],
+        "dictation": [
+          "town place names",
+          "map directions",
+          "Is there questions"
+        ]
+      },
+      "recommended_activity_types": [
+        "map-hotspot",
+        "place-purpose-match",
+        "route-following",
+        "is-there-quiz",
+        "transport-sort",
+        "taxi-match",
+        "phonics-sort",
+        "street-safety-sequencing",
+        "dictation"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: Geography",
+        "Culture Connection",
+        "Phonics: ai/oa",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-5",
+      "number": 5,
+      "type": "unit",
+      "title": "My Dream Job",
+      "printed_pages": "56-67",
+      "pdf_pages": [
+        61,
+        72
+      ],
+      "theme": "Jobs, ambitions, interests, goods, services, and setting goals.",
+      "vocabulary": [
+        {
+          "group": "jobs",
+          "items": [
+            "actor",
+            "artist",
+            "athlete",
+            "chef",
+            "dancer",
+            "doctor",
+            "pilot",
+            "singer",
+            "teacher",
+            "vet",
+            "writer"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "want to be",
+          "patterns": [
+            "What do you want to be?",
+            "I want to be an actor."
+          ]
+        },
+        {
+          "target": "wants to be",
+          "patterns": [
+            "What does she want to be?",
+            "She wants to be a doctor."
+          ]
+        },
+        {
+          "target": "give a simple reason",
+          "patterns": [
+            "I want to be a vet because I like animals."
+          ]
+        }
+      ],
+      "story_theme": "Children discuss dream jobs and connect each job with an activity they enjoy.",
+      "content_connection": {
+        "subject": "Social Science",
+        "title": "Goods and services",
+        "words": [
+          "carpenter",
+          "farmer",
+          "hairdresser",
+          "nurse",
+          "produce",
+          "provide",
+          "server",
+          "take care of"
+        ],
+        "concepts": [
+          "some jobs produce goods",
+          "some jobs provide services",
+          "some businesses do both"
+        ]
+      },
+      "culture_connection": {
+        "title": "Unusual jobs around the world",
+        "words": [
+          "bicycle",
+          "canal",
+          "customer",
+          "lie",
+          "millions",
+          "push"
+        ],
+        "concepts": [
+          "jobs can differ because of local geography, transport, and customer needs"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "ar",
+          "er",
+          "or"
+        ],
+        "examples": [
+          "arm",
+          "art",
+          "car",
+          "cart",
+          "letter",
+          "singer",
+          "teacher",
+          "born",
+          "corn",
+          "for"
+        ]
+      },
+      "values": {
+        "title": "Study hard and set goals",
+        "words": [
+          "art",
+          "math",
+          "music",
+          "science"
+        ],
+        "project": "Make a flip book about a future job, interests, and goals."
+      },
+      "outcomes": [
+        "Use job names.",
+        "Say what I want to be and why.",
+        "Ask and answer about what people want to be."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify jobs and ambitions",
+          "listen for reasons"
+        ],
+        "speaking": [
+          "say a dream job and why",
+          "ask another person's ambition"
+        ],
+        "reading": [
+          "read a dream-job story",
+          "distinguish goods from services"
+        ],
+        "writing": [
+          "write want/wants to be",
+          "write a simple because sentence"
+        ],
+        "dictation": [
+          "job words",
+          "dream-job questions",
+          "short reason sentences"
+        ]
+      },
+      "recommended_activity_types": [
+        "job-acting-game",
+        "job-tool-match",
+        "dream-job-dialogue",
+        "goods-services-sort",
+        "goal-builder",
+        "sentence-builder",
+        "dictation",
+        "phonics-sort",
+        "career-card-creator"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: Social Science",
+        "Culture Connection",
+        "Phonics: ar/er/or",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-6",
+      "number": 6,
+      "type": "unit",
+      "title": "My Day",
+      "printed_pages": "68-79",
+      "pdf_pages": [
+        73,
+        84
+      ],
+      "theme": "Clock time, daily routines, work schedules, and punctuality.",
+      "vocabulary": [
+        {
+          "group": "clock_times",
+          "items": [
+            "one o'clock",
+            "two o'clock",
+            "three o'clock",
+            "four o'clock",
+            "five o'clock",
+            "six o'clock",
+            "seven o'clock",
+            "eight o'clock",
+            "nine o'clock",
+            "ten o'clock",
+            "eleven o'clock",
+            "twelve o'clock"
+          ]
+        },
+        {
+          "group": "routine_verbs",
+          "items": [
+            "finish",
+            "get up",
+            "go out",
+            "go to bed",
+            "start",
+            "watch TV"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "when + present simple",
+          "patterns": [
+            "When does he get up?",
+            "He gets up at six o'clock.",
+            "When do you go to bed?",
+            "I go to bed at eight o'clock."
+          ]
+        },
+        {
+          "target": "event time",
+          "patterns": [
+            "When does the movie start?",
+            "It starts at seven o'clock."
+          ]
+        }
+      ],
+      "story_theme": "A child compares their daily schedule with a pet's unusual sleep and activity pattern.",
+      "content_connection": {
+        "subject": "History",
+        "title": "Telling the time",
+        "words": [
+          "burn",
+          "candle",
+          "cup",
+          "fall",
+          "height",
+          "hourglass",
+          "sand",
+          "shadow",
+          "sundial"
+        ],
+        "concepts": [
+          "people used shadows, water, sand, and candles to measure time"
+        ]
+      },
+      "culture_connection": {
+        "title": "Different working hours",
+        "words": [
+          "bakery",
+          "bread",
+          "fresh",
+          "market",
+          "store"
+        ],
+        "concepts": [
+          "different jobs begin and finish at different times"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "ch",
+          "tch",
+          "sh"
+        ],
+        "examples": [
+          "chin",
+          "chop",
+          "lunch",
+          "rich",
+          "match",
+          "watch",
+          "witch",
+          "dish",
+          "fish",
+          "ship",
+          "she"
+        ]
+      },
+      "values": {
+        "title": "Be on time",
+        "language": [
+          "I get my backpack ready the night before school.",
+          "I get up early on school days.",
+          "I get dressed quickly and eat breakfast.",
+          "I always get to school on time."
+        ],
+        "project": "Make a My Day book with clocks and routine pictures."
+      },
+      "outcomes": [
+        "Use o'clock to tell the time.",
+        "Use the present simple to describe activities.",
+        "Talk about a daily routine with time expressions.",
+        "Ask and answer about daily routine activities."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify clock times",
+          "sequence a daily routine"
+        ],
+        "speaking": [
+          "ask when an activity happens",
+          "describe a personal schedule"
+        ],
+        "reading": [
+          "read a routine story",
+          "read about historical timekeeping"
+        ],
+        "writing": [
+          "write clock times",
+          "complete do/does questions"
+        ],
+        "dictation": [
+          "time phrases",
+          "routine verbs",
+          "when questions and answers"
+        ]
+      },
+      "recommended_activity_types": [
+        "clock-match",
+        "set-the-clock",
+        "routine-ordering",
+        "when-dialogue",
+        "timekeeping-sort",
+        "work-hours-match",
+        "dictation",
+        "phonics-sort",
+        "punctuality-plan"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: History",
+        "Culture Connection",
+        "Phonics: ch/tch/sh",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-7",
+      "number": 7,
+      "type": "unit",
+      "title": "My Favorite Food",
+      "printed_pages": "84-95",
+      "pdf_pages": [
+        89,
+        100
+      ],
+      "theme": "Food preferences, healthy choices, snacks, and fruit around the world.",
+      "vocabulary": [
+        {
+          "group": "food",
+          "items": [
+            "apples",
+            "bananas",
+            "carrots",
+            "cheese",
+            "chicken",
+            "lemonade",
+            "mangoes",
+            "potatoes",
+            "spaghetti",
+            "strawberries",
+            "tomatoes",
+            "yogurt"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "do/does + like",
+          "patterns": [
+            "Do you like fruit?",
+            "Yes, I do.",
+            "Do they like vegetables?",
+            "No, they don't.",
+            "Does he like fruit?",
+            "No, he doesn't."
+          ]
+        },
+        {
+          "target": "like/likes and don't/doesn't like",
+          "patterns": [
+            "I like apples and bananas.",
+            "They don't like vegetables.",
+            "He likes yogurt."
+          ]
+        }
+      ],
+      "story_theme": "Family members choose an afternoon snack and discuss which fruits they like.",
+      "content_connection": {
+        "subject": "Science",
+        "title": "Healthy and unhealthy snacks",
+        "words": [
+          "candy",
+          "energy",
+          "fat",
+          "heart disease",
+          "label",
+          "potato chips",
+          "salt",
+          "snack",
+          "sugar",
+          "too much"
+        ],
+        "concepts": [
+          "read simple food-label information",
+          "recognize too much fat, salt, or sugar"
+        ]
+      },
+      "culture_connection": {
+        "title": "Where fruit comes from",
+        "words": [
+          "avocado",
+          "beautiful",
+          "fabric",
+          "kiwi",
+          "leaves",
+          "pineapple",
+          "plants",
+          "popular",
+          "tropical",
+          "ugly",
+          "watermelon"
+        ],
+        "concepts": [
+          "fruits grow in different climates and regions"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "ee",
+          "ie"
+        ],
+        "examples": [
+          "bee",
+          "cheese",
+          "feet",
+          "see",
+          "sheep",
+          "cried",
+          "flies",
+          "lie",
+          "pie",
+          "tie"
+        ]
+      },
+      "values": {
+        "title": "Choose healthy foods",
+        "words": [
+          "apple",
+          "cookie",
+          "carrots",
+          "chips"
+        ],
+        "language": [
+          "No chips for me, thanks.",
+          "Just one cookie, please."
+        ],
+        "project": "Make a Healthy Snacks collage."
+      },
+      "outcomes": [
+        "Use words for types of food.",
+        "Use like/likes and don't/doesn't like with food words.",
+        "Say what food I like and don't like.",
+        "Ask and answer about food preferences."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify food preferences",
+          "listen for healthy-choice language"
+        ],
+        "speaking": [
+          "ask and answer about favorite foods",
+          "make a polite food choice"
+        ],
+        "reading": [
+          "read a food-preference story",
+          "read a simplified snack label"
+        ],
+        "writing": [
+          "write like/likes and negative forms",
+          "write a short healthy snack plan"
+        ],
+        "dictation": [
+          "food vocabulary",
+          "preference questions",
+          "polite snack phrases"
+        ]
+      },
+      "recommended_activity_types": [
+        "food-memory",
+        "shopping-basket-sort",
+        "preference-survey",
+        "healthy-unhealthy-sort",
+        "label-reading",
+        "fruit-map-match",
+        "dictation",
+        "phonics-sort",
+        "snack-choice-scenario"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: Science",
+        "Culture Connection",
+        "Phonics: ee/ie",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-8",
+      "number": 8,
+      "type": "unit",
+      "title": "Wild Animals",
+      "printed_pages": "96-107",
+      "pdf_pages": [
+        101,
+        112
+      ],
+      "theme": "Wild animals, abilities, habitats, helping animals, and appreciation.",
+      "vocabulary": [
+        {
+          "group": "wild_animals_primary",
+          "items": [
+            "cheetah",
+            "crocodile",
+            "elephant",
+            "giraffe",
+            "hippo",
+            "kangaroo",
+            "monkey",
+            "peacock",
+            "polar bear",
+            "zebra"
+          ]
+        },
+        {
+          "group": "wild_animals_extended",
+          "items": [
+            "parrot"
+          ]
+        },
+        {
+          "group": "animal_actions",
+          "items": [
+            "chase",
+            "climb trees",
+            "fly",
+            "jump",
+            "run",
+            "swim",
+            "talk"
+          ]
+        }
+      ],
+      "editorial_note": "The contents table lists 'parrot', while the Unit 8 vocabulary page labels 'peacock'. Use peacock as the primary taught word and retain parrot as an extended/checkpoint word.",
+      "grammar": [
+        {
+          "target": "can/can't for ability",
+          "patterns": [
+            "Can a kangaroo jump?",
+            "Yes, it can.",
+            "Can elephants jump?",
+            "No, they can't."
+          ]
+        }
+      ],
+      "story_theme": "Children explain why they like particular animals and what those animals can do.",
+      "content_connection": {
+        "subject": "Science",
+        "title": "Animal habitats",
+        "words": [
+          "cover",
+          "desert",
+          "fox",
+          "jungle",
+          "lizard",
+          "ocean",
+          "raccoon",
+          "seal",
+          "whale"
+        ],
+        "concepts": [
+          "animals live in habitats that provide food, water, and cover"
+        ]
+      },
+      "culture_connection": {
+        "title": "Helping animals",
+        "words": [
+          "camp",
+          "chimpanzee",
+          "elephant",
+          "feed",
+          "farm",
+          "horse",
+          "hurt",
+          "jungle"
+        ],
+        "concepts": [
+          "people care for injured, rescued, or working animals in different places"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "ou",
+          "ow"
+        ],
+        "examples": [
+          "group",
+          "soup",
+          "toucan",
+          "you",
+          "clown",
+          "cow",
+          "down",
+          "owl",
+          "town"
+        ]
+      },
+      "values": {
+        "title": "Appreciate animals",
+        "words": [
+          "amazing",
+          "beautiful",
+          "smart",
+          "strong"
+        ],
+        "project": "Make an animal-and-habitat map for the learner's country."
+      },
+      "outcomes": [
+        "Use words for wild animals.",
+        "Use can/can't with action words.",
+        "Ask and answer questions about what animals can do."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify animals and abilities",
+          "listen for habitat clues"
+        ],
+        "speaking": [
+          "ask can questions",
+          "give a reason for liking an animal"
+        ],
+        "reading": [
+          "read an animal story",
+          "read short habitat descriptions"
+        ],
+        "writing": [
+          "write can/can't answers",
+          "write a short animal fact card"
+        ],
+        "dictation": [
+          "animal names",
+          "ability questions",
+          "habitat sentences"
+        ]
+      },
+      "recommended_activity_types": [
+        "animal-sound-or-image-guess",
+        "ability-sort",
+        "can-cant-quiz",
+        "habitat-drag-drop",
+        "animal-fact-card",
+        "rescue-scenario",
+        "dictation",
+        "phonics-sort",
+        "animal-map"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: Science",
+        "Culture Connection",
+        "Phonics: ou/ow",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    },
+    {
+      "id": "unit-9",
+      "number": 9,
+      "type": "unit",
+      "title": "Fun All Year",
+      "printed_pages": "108-119",
+      "pdf_pages": [
+        113,
+        124
+      ],
+      "theme": "Months, seasons, annual routines, celebrations, and active lifestyles.",
+      "vocabulary": [
+        {
+          "group": "months",
+          "items": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+          ]
+        },
+        {
+          "group": "frequency_adverbs",
+          "items": [
+            "always",
+            "never"
+          ]
+        },
+        {
+          "group": "seasons",
+          "items": [
+            "fall",
+            "spring",
+            "summer",
+            "winter"
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "target": "always/never with present simple",
+          "patterns": [
+            "He always has a New Year's party in January.",
+            "We never go on vacation in the winter."
+          ]
+        },
+        {
+          "target": "questions about annual routines",
+          "patterns": [
+            "What does he do in January?",
+            "Do you go on vacation in the winter?",
+            "No, we don't."
+          ]
+        }
+      ],
+      "story_theme": "Children compare favorite months, vacations, birthdays, and activities they always or never do.",
+      "content_connection": {
+        "subject": "Geography",
+        "title": "Celebrating special days",
+        "words": [
+          "celebration",
+          "confetti",
+          "hang",
+          "mask",
+          "pole",
+          "ribbon",
+          "wish"
+        ],
+        "places_and_events": [
+          "May Day in England",
+          "carnivals in Italy",
+          "Mid-Autumn Festival in China",
+          "Tanabata in Japan"
+        ]
+      },
+      "culture_connection": {
+        "title": "New Year's Eve",
+        "places": [
+          "Spain",
+          "Scotland",
+          "Japan"
+        ],
+        "words": [
+          "bell",
+          "chime",
+          "coal",
+          "luck",
+          "ring"
+        ],
+        "concepts": [
+          "foods, songs, visits, and sounds are used in different New Year traditions"
+        ]
+      },
+      "phonics": {
+        "graphemes": [
+          "alphabet review"
+        ],
+        "examples": [
+          "A-Z letter-name and initial-sound review"
+        ]
+      },
+      "values": {
+        "title": "Be active all year",
+        "words": [
+          "fall",
+          "spring",
+          "summer",
+          "winter",
+          "rake leaves",
+          "ride bikes",
+          "ice-skate",
+          "swim"
+        ],
+        "project": "Make a Special Days calendar."
+      },
+      "outcomes": [
+        "Use words for months, seasons, and celebrations.",
+        "Use always or never to describe regular activities.",
+        "Talk about important activities and events during a year.",
+        "Ask and answer what people do at different times of year."
+      ],
+      "skill_focus": {
+        "listening": [
+          "identify months and seasonal activities",
+          "listen for always/never"
+        ],
+        "speaking": [
+          "state a favorite month",
+          "describe yearly activities"
+        ],
+        "reading": [
+          "read an annual-routine story",
+          "read short celebration descriptions"
+        ],
+        "writing": [
+          "order and spell months",
+          "write always/never sentences"
+        ],
+        "dictation": [
+          "months",
+          "seasonal activity phrases",
+          "annual-routine sentences"
+        ]
+      },
+      "recommended_activity_types": [
+        "month-ordering",
+        "calendar-drag-drop",
+        "season-sort",
+        "always-never-builder",
+        "celebration-map",
+        "new-year-match",
+        "alphabet-hunt",
+        "dictation",
+        "special-days-calendar"
+      ],
+      "source_sections": [
+        "Vocabulary",
+        "Song",
+        "Story",
+        "Language in Action",
+        "Grammar",
+        "Content Connection: Geography",
+        "Culture Connection",
+        "Phonics: Alphabet",
+        "Values",
+        "Review"
+      ],
+      "content_counts": {
+        "vocabulary_activities": 12,
+        "grammar_activities": 8,
+        "listening_activities": 4,
+        "reading_passages": 3,
+        "speaking_prompts": 5,
+        "writing_activities": 5,
+        "dictation_activities": 6,
+        "phonics_activities": 4,
+        "clil_activities": 2,
+        "culture_activities": 2,
+        "values_activities": 2,
+        "mixed_unit_challenges": 1
+      }
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "checkpoint-1-3",
+      "covers_units": [
+        1,
+        2,
+        3
+      ],
+      "printed_pages": "40-43",
+      "pdf_pages": [
+        45,
+        48
+      ],
+      "assesses": [
+        "present continuous",
+        "there is/there are",
+        "like/likes to",
+        "location prepositions",
+        "rooms and object location",
+        "possessive 's",
+        "classroom, playground, and house vocabulary"
+      ],
+      "format": [
+        "learner self-assessment",
+        "integrated listening gap-fill",
+        "picture-based speaking",
+        "counting and location descriptions",
+        "card-based mixed review",
+        "All About Me writing/drawing",
+        "post-checkpoint confidence rating"
+      ]
+    },
+    {
+      "id": "checkpoint-4-6",
+      "covers_units": [
+        4,
+        5,
+        6
+      ],
+      "printed_pages": "80-83",
+      "pdf_pages": [
+        85,
+        88
+      ],
+      "assesses": [
+        "want/wants to",
+        "Is there/There is",
+        "town places",
+        "want to be and reasons",
+        "jobs",
+        "clock time",
+        "when + present simple",
+        "daily routines"
+      ],
+      "format": [
+        "learner self-assessment",
+        "integrated dialogue gap-fill",
+        "career speaking",
+        "purpose-and-place card matching",
+        "map questions",
+        "All About Me writing/drawing",
+        "post-checkpoint confidence rating"
+      ]
+    },
+    {
+      "id": "checkpoint-7-9",
+      "covers_units": [
+        7,
+        8,
+        9
+      ],
+      "printed_pages": "120-123",
+      "pdf_pages": [
+        125,
+        128
+      ],
+      "assesses": [
+        "food preferences",
+        "can/can't",
+        "wild animals",
+        "always/never",
+        "months and seasons",
+        "annual routines"
+      ],
+      "format": [
+        "learner self-assessment",
+        "integrated animal dialogue gap-fill",
+        "ability speaking",
+        "creative mixed-animal description",
+        "birthday and seasonal writing/drawing",
+        "post-checkpoint confidence rating"
+      ]
+    }
+  ],
+  "starters_practice": {
+    "id": "starters-practice",
+    "title": "Original Starters-style Practice",
+    "source_printed_pages": "124-132",
+    "source_pdf_pages": [
+      131,
+      139
+    ],
+    "rule": "Create new questions and new illustrations. Do not reproduce official or book practice items.",
+    "task_families": [
+      {
+        "skill": "listening",
+        "type": "three-picture multiple choice",
+        "source_pattern": "5 questions"
+      },
+      {
+        "skill": "listening",
+        "type": "write a name or number from a scene",
+        "source_pattern": "5 questions"
+      },
+      {
+        "skill": "reading-writing",
+        "type": "picture and sentence check/cross",
+        "source_pattern": "5 questions"
+      },
+      {
+        "skill": "reading-writing",
+        "type": "unscramble letters to write a pictured word",
+        "source_pattern": "5 questions"
+      },
+      {
+        "skill": "reading-writing",
+        "type": "choose words from a box to complete a short text",
+        "source_pattern": "5 questions"
+      },
+      {
+        "skill": "speaking",
+        "type": "large scene description and examiner-style prompts",
+        "source_pattern": "town/park scene"
+      }
+    ]
+  },
+  "global_product_requirements": {
+    "core_skills": [
+      "vocabulary",
+      "grammar",
+      "reading",
+      "listening",
+      "speaking",
+      "writing",
+      "dictation",
+      "phonics"
+    ],
+    "cross_curricular": [
+      "CLIL/content connection",
+      "culture",
+      "values"
+    ],
+    "activity_engines": [
+      "multiple-choice",
+      "fill-blank",
+      "matching",
+      "drag-drop",
+      "memory-game",
+      "sentence-builder",
+      "word-scramble",
+      "image-guess",
+      "story-order",
+      "dialogue-order",
+      "listening-choice",
+      "listen-and-type",
+      "dictation",
+      "record-and-replay",
+      "picture-description",
+      "guided-role-play",
+      "phonics-sort",
+      "values-scenario",
+      "unit-challenge",
+      "spaced-review"
+    ],
+    "progress_fields": [
+      "attempts",
+      "correct_attempts",
+      "consecutive_correct",
+      "recent_errors",
+      "last_practised",
+      "mastery_score",
+      "next_review_date"
+    ],
+    "privacy": [
+      "no account required",
+      "no child email",
+      "no advertising",
+      "no trackers",
+      "local progress storage",
+      "JSON export/import"
+    ],
+    "accessibility": [
+      "keyboard navigation",
+      "visible focus",
+      "semantic HTML",
+      "screen-reader labels",
+      "high contrast",
+      "reduced motion",
+      "adjustable text size",
+      "captions/transcripts",
+      "44px minimum targets"
+    ]
+  }
+}
