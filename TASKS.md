@@ -9,50 +9,50 @@
 
 ## Foundation
 
-- [ ] Initialise React + TypeScript + Vite.
-- [ ] Configure `HashRouter`.
-- [ ] Configure GitHub Pages base path.
-- [ ] Add content validation command.
-- [ ] Add Vitest and React Testing Library.
-- [ ] Add GitHub Pages Actions workflow.
-- [ ] Add responsive application shell.
-- [ ] Add accessibility settings.
-- [ ] Add English/Persian hint system.
+- [x] Initialise React + TypeScript + Vite.
+- [x] Configure `HashRouter`.
+- [x] Configure GitHub Pages base path.
+- [x] Add content validation command.
+- [x] Add Vitest and React Testing Library.
+- [x] Add GitHub Pages Actions workflow.
+- [x] Add responsive application shell.
+- [x] Add accessibility settings.
+- [x] Add English/Persian hint system.
 
 ## Shared learning services
 
-- [ ] Answer normalisation.
-- [ ] Scoring.
-- [ ] Local progress persistence.
-- [ ] Mastery calculation.
+- [x] Answer normalisation.
+- [x] Scoring.
+- [x] Local progress persistence.
+- [x] Mastery calculation.
 - [ ] Spaced-review scheduling.
-- [ ] SpeechSynthesis abstraction.
-- [ ] MediaRecorder recording and local replay.
+- [x] SpeechSynthesis abstraction.
+- [x] MediaRecorder recording and local replay.
 - [ ] JSON progress export/import.
 
 ## Shared activity engines
 
-- [ ] Multiple choice.
-- [ ] Fill in the blank.
-- [ ] Matching.
+- [x] Multiple choice.
+- [x] Fill in the blank.
+- [x] Matching.
 - [ ] Drag/drop with keyboard alternative.
 - [ ] Memory game.
 - [ ] Sentence builder.
 - [ ] Image guess/reveal.
 - [ ] Listening choice.
-- [ ] Listen and type.
-- [ ] Dictation with word-level feedback.
-- [ ] Speaking record/replay.
-- [ ] Reading comprehension.
+- [x] Listen and type.
+- [x] Dictation with word-level feedback.
+- [x] Speaking record/replay.
+- [x] Reading comprehension.
 - [ ] Story/dialogue ordering.
-- [ ] Phonics sorting.
-- [ ] Values scenario.
-- [ ] Unit challenge.
+- [x] Phonics sorting.
+- [x] Values scenario.
+- [x] Unit challenge.
 
 ## Curriculum implementation
 
-- [ ] Welcome Unit.
-- [ ] Unit 1 — In My Classroom.
+- [x] Welcome Unit.
+- [x] Unit 1 — In My Classroom.
 - [ ] Unit 2 — My Games.
 - [ ] Unit 3 — In My House.
 - [ ] Checkpoint Units 1–3.
@@ -68,22 +68,22 @@
 
 ## Product features
 
-- [ ] Learner dashboard.
-- [ ] Parent dashboard.
-- [ ] Unit progress path.
-- [ ] Stars and badges.
+- [x] Learner dashboard.
+- [x] Parent dashboard.
+- [x] Unit progress path.
+- [x] Stars and badges.
 - [ ] Today's review queue.
-- [ ] Reduced-motion support.
+- [x] Reduced-motion support.
 - [ ] Adjustable text size.
 - [ ] Optional PWA support.
 
 ## Release audit
 
-- [ ] No textbook PDF or scanned page is committed.
-- [ ] No copied song, story, long dialogue, or publisher illustration is present.
-- [ ] All IDs are unique.
-- [ ] Required sections and activity counts pass validation.
-- [ ] Tests pass.
-- [ ] Production build passes.
+- [x] No textbook PDF or scanned page is committed.
+- [x] No copied song, story, long dialogue, or publisher illustration is present.
+- [x] All IDs are unique.
+- [x] Required sections and activity counts pass validation.
+- [x] Tests pass.
+- [x] Production build passes.
 - [ ] GitHub Pages deployment succeeds.
-- [ ] Footer disclaimer is visible.
+- [x] Footer disclaimer is visible.
